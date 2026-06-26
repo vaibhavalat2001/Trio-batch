@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 10px
+}
+
+.box{
+    background-color: orange;
+}
+
+#name{
+    background-color: red;
+}
