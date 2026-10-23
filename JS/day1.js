@@ -1,7 +1,7 @@
 // day 1:
 
 // for printing statement
-// console.log("my name is vaibhav");
+console.log("my name is vaibhav");
 
 
 // variable = it is use for storing value 
@@ -12,7 +12,7 @@
 
 
 // var type to declare variable
-var age = 25;   // global variable, redeclare and reassign 
-var age = "twenty two"; // redeclare
-age = 88;   // reassign 
-console.log(age);   // twenty two
+// var age = 25;   // global variable, redeclare and reassign 
+// var age = "twenty two"; // redeclare
+// age = 88;   // reassign 
+// console.log(age);   // twenty two
