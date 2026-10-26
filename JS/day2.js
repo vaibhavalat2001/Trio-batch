@@ -43,7 +43,6 @@ console.table([1, 2, 3,]);
 
 
 
-
 // ### Home Work: 
 // # JavaScript Practice Questions — Day 2
 
