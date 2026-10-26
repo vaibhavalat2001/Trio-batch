@@ -30,6 +30,7 @@ let $age34afda = 45;
 
 
 // ### 4. Data type in js
+// Primitive data type (immutable)
 // String, number, boolean, null, undefined, bigint, symbol
 let str = "students";   // string
 let num = 23;
@@ -42,3 +43,7 @@ let age2 = 23;
 let age3 = 23;
 console.log(age2 == age3);  // true
 console.log(id1 == id2);    // false
+
+
+// non-primitive data (mutable)
+// function, object, array
