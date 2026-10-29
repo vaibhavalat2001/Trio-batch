@@ -66,6 +66,33 @@ let y = 10;
 // console.log(7 >= 3); // true
 // console.log(5 >= 8); // false
 
+// ### Logical Operator
+// &&, ||
+// T && T = T
+// F && T = F
+// F && F = F
+
+// T || T = T
+// T || F = T
+// F || T = T
+// F || F = F
+
+// @@ && and 
+// console.log("seema" && "pragya"); // pragya
+// console.log(0 && "seema");  // 0
+
+// @@ || or
+// console.log("seema" || "pragya"); // seema
+// console.log(0 || "seema");  // seema
+
+
+// ternary operator: ?
+let age = 14;
+age >= 18? console.log("Eligible for vote") : console.log("Not eligible for vote")
+
+
+
+
 /*
 # JavaScript Day 5 – Homework 📝
 
